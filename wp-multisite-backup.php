@@ -3,7 +3,7 @@
  * Plugin Name: WP Multisite Backup
  * Description: Плагин для создания и восстановления резервных копий мультисайтовой сети WordPress.
  * Version: 2.3
- * Author: Ваше Имя
+ * Author: Pavel Afanasev
  */
 
 // Защита от прямого доступа
